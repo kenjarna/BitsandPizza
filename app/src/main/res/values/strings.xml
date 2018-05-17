@@ -20,7 +20,7 @@
     <string-array name="titles">
         <item>Home</item>
         <item>Pizzas</item>
-        <item>Pasta and Breadsticks</item>
+        <item>Pasta and Sandwiches</item>
         <item>Stores</item>
     </string-array>
     <string name="open_drawer">Open Drawer</string>
